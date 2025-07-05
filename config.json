@@ -1,5 +1,5 @@
 {
-  "password": "124",
+  "password": "123",
   "expiry_date": "2025-07-01 23:59",
   "update_message": "⚠️ File expired! Update now 👉",
   "update_link": "https://t.me/DARINDAxOWNER",
@@ -8,10 +8,10 @@
   "target_path": "/data/user/0/com.box.app.virtual/rootfs/data/user/0/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles",
   "scripts": {
     "1": {
-      "name": "Only Headshot",
+      "name": "Onl Headshot",
       "zip_name": "headshot.zip",
       "file_name": "cache_res.~2BrPJlgpDAnfyUCp~2Biox5bwsZlQQ~3D",
-      "url": "https://github.com/djkfbi/Ff/releases/download/Vvup/magic.zip"
+      "url": "https://github.com/djkfbi/Ff/releases/download/Vvup/location.zip"
     },
     "2": {
       "name": "Magic Bullet",
