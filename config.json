@@ -8,7 +8,7 @@
   "target_path": "/data/user/0/com.box.app.virtual/rootfs/data/user/0/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles",
   "scripts": {
     "1": {
-      "name": " Headshot",
+      "name": "Only Headshot",
       "zip_name": "headshot.zip",
       "file_name": "cache_res.~2BrPJlgpDAnfyUCp~2Biox5bwsZlQQ~3D",
       "url": "https://github.com/djkfbi/Ff/releases/download/Vvup/location.zip"
